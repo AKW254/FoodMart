@@ -1,0 +1,11 @@
+
+.navbar-nav .nav-link:hover{
+    outline: 2px solid blue;
+    border-radius: 5px;
+    color: white;
+}
+.navbar-nav .nav-link.active{
+    text-decoration: underline 3px solid;
+    text-decoration-color: blue;
+}
+   
