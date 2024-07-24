@@ -38,7 +38,7 @@ A modern landing page for Foodmart, built with Node.js, featuring:
 
 ## Setup Instructions
 
-Clone the repository: https://github.com/kilonzowambua/HouseHunt.git
+Clone the repository: https://github.com/AKW254/FoodMart.git
 
 
 Start the application:
