@@ -559,3 +559,53 @@
 2024-07-23T15:11:38.109Z - GET request for /css/style.css - 200 OK
 2024-07-23T15:11:38.112Z - GET request for /images/404errorlostinspace-pana.svg - 200 OK
 2024-07-23T15:12:08.830Z - GET request for /index.html - 200 OK
+2024-07-24T12:12:34.044Z - GET request for / - 200 OK
+2024-07-24T12:12:34.653Z - GET request for /css/style.css - 200 OK
+2024-07-24T12:12:35.096Z - GET request for /favicon.ico - 500 Internal Server Error
+2024-07-24T12:12:35.114Z - GET request for /images/bimo-luki-mwHzM7qB7vk-unsplash.jpg - 200 OK
+2024-07-24T12:13:56.371Z - GET request for /about-us.html - 200 OK
+2024-07-24T12:13:56.533Z - GET request for /css/style.css - 200 OK
+2024-07-24T12:13:57.127Z - GET request for /images/jason-leung-poI7DelFiVA-unsplash.jpg - 200 OK
+2024-07-24T12:13:57.250Z - GET request for /images/elizeu-dias-2EGNqazbAMk-unsplash.jpg - 200 OK
+2024-07-24T12:13:57.358Z - GET request for /images/mohamed-nohassi-hhSedyEULtQ-unsplash.jpg - 200 OK
+2024-07-24T12:13:57.400Z - GET request for /images/usman-yousaf-q2q5CdLuWnI-unsplash.jpg - 200 OK
+2024-07-24T12:14:40.167Z - GET request for /testimonials.html - 200 OK
+2024-07-24T12:14:40.359Z - GET request for /css/style.css - 200 OK
+2024-07-24T12:14:40.390Z - GET request for /images/aiony-haust-3TLl_97HNJo-unsplash.jpg - 500 Internal Server Error
+2024-07-24T12:14:40.452Z - GET request for /images/christian-buehner-DItYlc26zVI-unsplash.jpg - 200 OK
+2024-07-24T12:14:40.589Z - GET request for /images/microsoft-edge-fb_wM334yYQ-unsplash.jpg - 200 OK
+2024-07-24T12:14:40.656Z - GET request for /images/levi-meir-clancy-bgg8xPGw_vQ-unsplash.jpg - 200 OK
+2024-07-24T12:14:49.033Z - GET request for /testimonials.html - 200 OK
+2024-07-24T12:14:49.209Z - GET request for /css/style.css - 200 OK
+2024-07-24T12:14:49.213Z - GET request for /images/aiony-haust-3TLl_97HNJo-unsplash.jpg - 500 Internal Server Error
+2024-07-24T12:14:49.228Z - GET request for /images/christian-buehner-DItYlc26zVI-unsplash.jpg - 200 OK
+2024-07-24T12:14:49.234Z - GET request for /images/levi-meir-clancy-bgg8xPGw_vQ-unsplash.jpg - 200 OK
+2024-07-24T12:14:49.246Z - GET request for /images/microsoft-edge-fb_wM334yYQ-unsplash.jpg - 200 OK
+2024-07-24T12:16:22.536Z - GET request for /contact-us.html - 200 OK
+2024-07-24T12:16:22.690Z - GET request for /css/style.css - 200 OK
+2024-07-24T12:18:11.185Z - GET request for /contactus.html - 500 Internal Server Error
+2024-07-24T12:18:16.972Z - GET request for /contactus.html - 500 Internal Server Error
+2024-07-24T12:18:27.860Z - GET request for /c.html - 500 Internal Server Error
+2024-07-24T12:18:47.160Z - GET request for /index1.html - 500 Internal Server Error
+2024-07-24T12:20:27.836Z - GET request for /404.html - 200 OK
+2024-07-24T12:20:28.097Z - GET request for /css/style.css - 200 OK
+2024-07-24T12:20:28.104Z - GET request for /images/404errorlostinspace-pana.svg - 200 OK
+2024-07-24T12:22:30.956Z - GET request for /index1.html - 500 Internal Server Error
+2024-07-24T12:22:43.911Z - GET request for /inde9x.html - 500 Internal Server Error
+2024-07-24T12:25:03.523Z - GET request for /index1.html - 500 Internal Server Error
+2024-07-24T12:25:04.522Z - GET request for /index1.html - 500 Internal Server Error
+2024-07-24T12:26:30.870Z - GET request for /index1html - 500 Internal Server Error
+2024-07-24T12:26:31.099Z - GET request for /favicon.ico - 500 Internal Server Error
+2024-07-24T12:28:12.297Z - GET request for /index.html - 200 OK
+2024-07-24T12:28:12.478Z - GET request for /css/style.css - 200 OK
+2024-07-24T12:28:13.059Z - GET request for /images/bimo-luki-mwHzM7qB7vk-unsplash.jpg - 200 OK
+2024-07-24T12:28:47.926Z - GET request for /404.html - 200 OK
+2024-07-24T12:28:48.129Z - GET request for /css/style.css - 200 OK
+2024-07-24T12:28:48.192Z - GET request for /images/404errorlostinspace-pana.svg - 200 OK
+2024-07-24T12:30:27.392Z - GET request for /index.html - 200 OK
+2024-07-24T12:30:27.521Z - GET request for /css/style.css - 200 OK
+2024-07-24T12:30:27.950Z - GET request for /images/bimo-luki-mwHzM7qB7vk-unsplash.jpg - 200 OK
+2024-07-24T12:30:33.617Z - GET request for /index3.html - 500 Internal Server Error
+2024-07-24T12:30:47.168Z - GET request for /404.html - 200 OK
+2024-07-24T12:30:47.377Z - GET request for /css/style.css - 200 OK
+2024-07-24T12:30:47.403Z - GET request for /images/404errorlostinspace-pana.svg - 200 OK
